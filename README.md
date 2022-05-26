@@ -1,6 +1,7 @@
 # Just my learning Pandas and Numpy
 This repo contains fewer things that i have learn about pandas and numpy to make my life easier and code faster.
 
+I used Jupiter notebook for this example.
 
 ## What is in this repo?
 
